@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Running the Activity Frontend Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+The project runs on default port 3000. It assumes a backend running on localhost on port 8484.
+To change this, edit the constants file and change the BASE_URL to point to the backend url.
 
 ## Available Scripts
 
